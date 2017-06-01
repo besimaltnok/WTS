@@ -28,3 +28,10 @@
 + **Scenario 3** : Evil Twin Attack
 + **Scenario 4** : Open network flood
 + **Scenario 5** : Create Open Network from Probe Requests
+
+### Additional features
+
++ DoS Attacks
++ DNS Spoof
++ HTTP Request Analysis
++ Credential Phishing for Real WiFi Password
