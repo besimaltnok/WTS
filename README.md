@@ -21,4 +21,10 @@
 </p>
 
 
-## Main Futures
+## Sceneraios
+
++ **Scenario 1** : Create Similar SSID
++ **Scenario 2** : Create Same    SSID
++ **Scenario 3** : Evil Twin Attack
++ **Scenario 4** : Open network flood
++ **Scenario 5** : Create Open Network from Probe Requests
