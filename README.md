@@ -28,10 +28,17 @@
 + **Scenario 3** : Evil Twin Attack
 + **Scenario 4** : Open network flood
 + **Scenario 5** : Create Open Network from Probe Requests
++ **Scenario 6** : Wireless Network DoS Attack Tests
++ **Scenario 7** : Analyze Environmental Threat Tests
 
 ### Additional features
 
-+ DoS Attacks
-+ DNS Spoof
 + HTTP Request Analysis
 + Credential Phishing for Real WiFi Password
+
+### Environmental Threats
+
++ OPN Networks
++ DoS Attacks
++ Hidden Networks
++ WEP Networks
