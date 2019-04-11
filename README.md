@@ -23,13 +23,16 @@
 
 + **Scenario 1** : Create Similar SSID
 + **Scenario 2** : Create Same    SSID
-+ **Scenario 3** : Evil Twin Attack
-+ **Scenario 4** : Open network flood
-+ **Scenario 5** : Create Open Network from Probe Requests
-+ **Scenario 6** : Wireless Network DoS Attack Tests
-+ **Scenario 7** : Analyze Environmental Threat Tests
-+ **Scenario 8** : DNS Leak with Fake AP
-+ **Scenario 9** : Test Wireless IDS/IPS Systems
++ **Scenario 3** : Create interesting SSID (like free, fast, StarBucks, CoffeShop)
++ **Scenario 4** : Create interesting SSID with DoS Attack
++ **Scenario 5** : Create Same    SSID with DoS Attack
++ **Scenario 6** : Evil Twin Attack
++ **Scenario 7** : Open network flood
++ **Scenario 8** : Create Open Network from Probe Requests
++ **Scenario 9** : Wireless Network DoS Attack Tests
++ **Scenario 10**: Analyze Environmental Threat Tests
++ **Scenario 11**: DNS Leak with Fake AP
++ **Scenario 12**: Test Wireless IDS/IPS Systems
 
 ### Additional features
 
