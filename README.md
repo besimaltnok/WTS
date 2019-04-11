@@ -29,6 +29,7 @@
 + **Scenario 6** : Wireless Network DoS Attack Tests
 + **Scenario 7** : Analyze Environmental Threat Tests
 + **Scenario 8** : DNS Leak with Fake AP
++ **Scenario 9** : Test Wireless IDS/IPS Systems
 
 ### Additional features
 
