@@ -16,6 +16,8 @@
 
 <p align="center">
 <img src="https://img.shields.io/badge/Python-3-yellow.svg"></a> <img src="https://img.shields.io/badge/license-GPLv3-red.svg">
+<a href="#"><img src="https://www.pentest.com.tr/images/Blackhat/blackhatUSA2019p.svg"></a>
+<a href="#"><img src="https://www.pentest.com.tr/images/Defcon/defcon27p.svg"></a>
 </p>
 
 
