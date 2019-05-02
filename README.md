@@ -33,6 +33,7 @@
 + **Scenario 10**: Analyze Environmental Threat Tests
 + **Scenario 11**: DNS Leak with Fake AP
 + **Scenario 12**: Test Wireless IDS/IPS Systems
++ **Scenario 13**: Capture handshake for SSID values belonging to company
 
 ### Additional features
 
