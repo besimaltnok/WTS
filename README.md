@@ -20,6 +20,11 @@
 <a href="#"><img src="https://www.pentest.com.tr/images/Defcon/defcon27p.svg"></a>
 </p>
 
+## About
+
+The WiFi Network Threat Simulation project is designed to perform scenario-based wifi network security tests. Thanks to the modules inside, you can test both the user and AP devices as well as the wireless IDS and IPS devices.
+
+In addition, this project is supported by a web interface. Thus, it becomes easier to configure and perform the scenarios.
 
 ## Sceneraios
 
