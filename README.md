@@ -36,6 +36,7 @@
 + **Scenario 11**: DNS Leak with Fake AP
 + **Scenario 12**: Test Wireless IDS/IPS Systems
 + **Scenario 13**: Capture handshake for SSID values belonging to company
++ **Scenario 14**: Leak WiFi DB analysis for target company
 
 ### Additional features
 
