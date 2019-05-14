@@ -37,6 +37,8 @@
 + **Scenario 12**: Test Wireless IDS/IPS Systems
 + **Scenario 13**: Capture handshake for SSID values belonging to company
 + **Scenario 14**: Leak WiFi DB analysis for target company
++ **Scenario 15**: Threat Density Measurement
++ **Scenario 16**: Risk Ratio Calculator for Access Points
 
 ### Additional features
 
