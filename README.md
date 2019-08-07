@@ -53,6 +53,28 @@ In addition, this project is supported by a web interface. Thus, it becomes easi
 + **[STEP]:** Check MS17 vulnerability
 + **[STEP]:** Hack all vulnerability machines and collect user password hashes with mimikatz
 
+### Sample Scenarios
+
++ [Blue Team] - Test Wireless IDS/IPS Systems
+
++ **[STEP-1]:** Select wireless interface
++ **[STEP-2]:** Select attack_time
++ **[STEP-3]:** Select attack_type
++ **[STEP-4]:** Check your CONF
++ **[STEP-5]:** Start scenario
+
+<p align="center">
+<img src="https://github.com/besimaltnok/WTS/blob/master/wts.png" height="%50" width="60%">
+</p>
+
++ [Blue Team] - Analyze Environmental Threat
+
++ [Blue Team] - Risk Ratio Calculator for Access Points
+
++ [Red Team]  - Hack'em All
+
+
+
 ### Additional features
 
 + HTTP Request Analysis
