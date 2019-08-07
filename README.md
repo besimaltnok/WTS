@@ -50,6 +50,8 @@ In addition, this project is supported by a web interface. Thus, it becomes easi
 + **[STEP]:** Capture clear-text creds (w/GTC Downgrade)
 + **[STEP]:** Access to wifi network
 + **[STEP]:** Control access to devices
++ **[STEP]:** Check MS17 vulnerability
++ **[STEP]:** Hack all vulnerability machines and collect user password hashes with mimikatz
 
 ### Additional features
 
