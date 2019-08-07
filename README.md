@@ -51,11 +51,11 @@ In addition, this project is supported by a web interface. Thus, it becomes easi
 + **[STEP]:** Access to wifi network
 + **[STEP]:** Control access to devices
 + **[STEP]:** Check MS17 vulnerability
-+ **[STEP]:** Hack all vulnerability machines and collect user password hashes with mimikatz
++ **[STEP-1]:** Hack all vulnerability machines and collect user password hashes with mimikatz
 
 ### Sample Scenarios
 
-+ [Blue Team] - Test Wireless IDS/IPS Systems
+#### [Blue Team] - Test Wireless IDS/IPS Systems
 
 + **[STEP-1]:** Select wireless interface
 + **[STEP-2]:** Select attack_time
