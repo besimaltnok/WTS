@@ -26,6 +26,8 @@ The WiFi Network Threat Simulation project is designed to perform scenario-based
 
 In addition, this project is supported by a web interface. Thus, it becomes easier to configure and perform the scenarios.
 
+**Note:** This project a part of the **wipihunter**
+
 ## Scenarios
 
 #### BLUE TEAM 
